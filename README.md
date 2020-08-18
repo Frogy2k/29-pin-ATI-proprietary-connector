@@ -1,0 +1,1 @@
+# 29-pin-ATI-proprietary-connector
