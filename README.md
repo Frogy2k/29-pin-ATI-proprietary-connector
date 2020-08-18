@@ -4,9 +4,11 @@ Reversed pinout of the 29 pin ATI connector for some ATI All-in-Wonder cards.
 ## Supported Cards:
 - ATI All-in-Wonder 9600  
 ## Pinout
-| GND |   |       | GND |   |
-|     |   |       | GND |   |
-|     |   |       |     |   |
-|     |   | HSync | GND | B |
-|     |   | VSync | GND | G |
-|     |   | GND   | R   |
+
+| GND | UNK | UNK   | GND | UNK |
+|-----|-----|-------|-----|-----|
+| NC  | UNK | UNK   | GND | UNK |
+| UNK | UNK | UNK   | UNK | UNK |
+| UNK | UNK | HSync | GND | B   |
+| UNK | UNK | VSync | GND | G   |
+| UNK | UNK | GND   | R   | NC  |
