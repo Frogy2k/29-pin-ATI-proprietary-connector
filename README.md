@@ -7,7 +7,7 @@ Reversed pinout of the 29 pin ATI connector for some ATI All-in-Wonder cards.
 ![Diagram of pinout](https://github.com/Frogy2k/29-pin-ATI-proprietary-connector/blob/master/ati_29p.svg)
 ## Pinout
 
-| <p>GND<p> | UNK | UNK   | GND | UNK |
+| GND | UNK | UNK   | GND | UNK |
 |-----|-----|-------|-----|-----|
 | NC  | UNK | UNK   | GND | UNK |
 | UNK | UNK | UNK   | UNK | UNK |
